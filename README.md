@@ -1,4 +1,5 @@
-## Oiii eu sou Kauai Amorim!
+## Opa! Sou Kauai Amorim
+🌱 Sou estudante Full-Stack ...
 <div align="center">
   <a href="https://github.com/kauaigouveia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauaigouveia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
